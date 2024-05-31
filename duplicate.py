@@ -6,3 +6,6 @@ def duplicate_encode(word):
         else:
             encoded += "("
     return encoded
+
+
+print(duplicate_encode("din"))
